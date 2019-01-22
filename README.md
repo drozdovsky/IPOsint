@@ -7,7 +7,7 @@ IPSpace allows you to discover IP Address of the target from a great resource wi
 
 # Installation
 ```
-git clone https://github.com/j3ssie/IPSpace
+git clone https://github.com/j3ssie/IPOsint
 pip3 install -r requirement.txt
 ```
 
